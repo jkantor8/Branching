@@ -7,6 +7,8 @@
 * git add filename' - stage 'filename' for commit
 * 'git commit -m 'msg' - commit to local repo with message
 'msg'
+* 'git branch -m newName' - change name of current branch
+
 
 ### Information Commands
 
